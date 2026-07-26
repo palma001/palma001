@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Palma 👋</h1>
-<h3 align="center">Desarrollador Backend & Full-Stack · Especialista en APIs REST, integraciones y reportería</h3>
+<h3 align="center">Desarrollador Backend & Full-Stack · APIs REST · Integraciones con IA</h3>
 
 <p align="center">
-  Construyo backends robustos y APIs documentadas que ayudan a empresas a automatizar procesos, integrar sistemas y tomar mejores decisiones con datos.
+  Construyo backends robustos, APIs documentadas e integraciones de inteligencia artificial que ayudan a empresas a automatizar procesos, integrar sistemas y tomar mejores decisiones con datos.
 </p>
 
 <p align="center">
@@ -16,11 +16,28 @@
 
 - 🔌 **APIs REST** limpias, seguras y documentadas con **Swagger / OpenAPI**.
 - ⚙️ **Backends escalables** en PHP y Node.js con bases de datos MySQL.
+- 🤖 **Integración de IA** en aplicaciones: chatbots, asistentes y automatización de flujos.
 - 📊 **Reportería y dashboards** que convierten datos en decisiones.
-- 🔗 **Integraciones** entre sistemas, servicios cloud (AWS) y APIs de terceros.
 - 🖥️ **Full-Stack** cuando hace falta: Vue, React, Next.js y Tailwind en el frontend.
 
 > 💬 ¿Tienes un proyecto en mente? Escríbeme — respondo rápido y trabajo orientado a resultados.
+
+---
+
+## 🤖 Inteligencia Artificial
+
+Integro **IA en aplicaciones reales** para automatizar tareas, potenciar la experiencia de usuario y sacar más valor de los datos. Mi experiencia incluye:
+
+- 💬 **Chatbots y asistentes con LLMs** — apps de chat con el **AI SDK de Vercel** conectadas a modelos de **OpenAI, Anthropic, xAI (Grok)** y otros proveedores.
+- 🧠 **Integración de modelos de lenguaje** — generación de texto, respuestas estructuradas y *tool calls* dentro de aplicaciones Next.js.
+- 🔄 **Automatización de flujos con IA** — orquestación de procesos y agentes con **n8n** e integraciones con APIs de terceros.
+- ⚡ **Prototipado con IA** — desarrollo asistido con herramientas como **Firebase Studio**.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,vercel,firebase,py" />
+</p>
+
+> 🔒 Algunos de estos proyectos son privados; puedo compartir demos o detallar mi rol bajo solicitud.
 
 ---
 
@@ -38,7 +55,7 @@
 
 **Herramientas & Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,aws,postman,linux,vscode,idea,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vercel,postman,linux,vscode,idea,figma" />
 </p>
 
 ---
@@ -72,6 +89,7 @@ En **QbitsDev** he desarrollado software empresarial y soluciones SaaS a medida 
 
 ## 💼 Proyectos personales
 
+- **nextjs-ai-chatbot** — Asistente conversacional con IA construido con Next.js y el AI SDK, multi-proveedor de LLMs.
 - **swagger-deporte / swagger-demo** — APIs documentadas con Swagger/OpenAPI listas para integrarse.
 - **backend-admin / backend-map** — Backends para paneles de administración y datos geográficos.
 - **reporte** — Sistema de reportería para visualización y análisis de información.
